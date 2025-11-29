@@ -1,1 +1,1 @@
-# EverFX.github.io
+# everfx
